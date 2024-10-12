@@ -3,7 +3,7 @@
 ## About Me
 No skills, no passions.
 
-### Learning (Favorites):
+### Learning (Favs):
 - Rust
 - C#
 - Java
